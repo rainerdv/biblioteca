@@ -118,8 +118,8 @@
 		</div>
 		<nav class = "navbar navbar-default navbar-fixed-bottom">
 			<div class = "container-fluid">
-				<label class = "navbar-text pull-left">Developed By: Platea21</label>
-				<label class = "navbar-text pull-right">Sistema de Biblioteca | Platea21 &copy; Todos los Derechos Reservados 2018</label>
+				<label class = "navbar-text pull-left">6to.computacion</label>
+
 			</div>
 		</nav>
 	</body>

@@ -56,7 +56,7 @@
 		</div>
 		<nav class = "navbar navbar-default navbar-fixed-bottom">
 			<div class = "container-fluid">
-				<label class = "navbar-text pull-right">Sistema de Biblioteca | Platea21 &copy; Todos los Derechos Reservados 2018</label>
+	
 			</div>
 		</nav>
 	</body>
